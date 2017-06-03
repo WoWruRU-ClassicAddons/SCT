@@ -42,15 +42,15 @@ SCT.LOCALS.TARGET = "Target ";
 SCT.LOCALS.PROFILE = "SCT Profile Loaded: |cff00ff00";
 SCT.LOCALS.PROFILE_DELETE = "SCT Profile Deleted: |cff00ff00";
 SCT.LOCALS.PROFILE_NEW = "SCT New Profile Created: |cff00ff00";
-SCT.LOCALS.WARRIOR = "Warrior";
-SCT.LOCALS.ROGUE = "Rogue";
-SCT.LOCALS.HUNTER = "Hunter";
-SCT.LOCALS.MAGE = "Mage";
-SCT.LOCALS.WARLOCK = "Warlock";
-SCT.LOCALS.DRUID = "Druid";
-SCT.LOCALS.PRIEST = "Priest";
-SCT.LOCALS.SHAMAN = "Shaman";
-SCT.LOCALS.PALADIN = "Paladin";
+SCT.LOCALS.WARRIOR = "Воин";
+SCT.LOCALS.ROGUE = "Разбойник";
+SCT.LOCALS.HUNTER = "Охотник";
+SCT.LOCALS.MAGE = "Маг";
+SCT.LOCALS.WARLOCK = "Чернокнижник";
+SCT.LOCALS.DRUID = "Друид";
+SCT.LOCALS.PRIEST = "Жрец";
+SCT.LOCALS.SHAMAN = "Шаман";
+SCT.LOCALS.PALADIN = "Паладин";
 
 --Useage
 SCT.LOCALS.DISPLAY_USEAGE = "Useage: \n";
